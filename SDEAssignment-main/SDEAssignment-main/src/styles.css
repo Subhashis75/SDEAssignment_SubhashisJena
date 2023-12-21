@@ -1,0 +1,19 @@
+.stats-table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
+
+.stats-table th,
+.stats-table td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.stats-table th {
+  text-align: left;
+}
+
+.stats-table tbody td div {
+  margin-bottom: 4px;
+}
